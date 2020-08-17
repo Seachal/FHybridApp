@@ -20,11 +20,16 @@
 
         <activity
                 android:name="io.flutter.embedding.android.FlutterActivity"
-                android:theme="@style/AppTheme"
+                android:theme="@style/LaunchTheme"
                 android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
                 android:hardwareAccelerated="true"
                 android:windowSoftInputMode="adjustResize"
-        />
+        >
+            <meta-data
+                    android:name="io.flutter.embedding.android.SplashScreenDrawable"
+                    android:resource="@drawable/my_splash"
+            />
+        </activity>
     </application>
 
 </manifest>
