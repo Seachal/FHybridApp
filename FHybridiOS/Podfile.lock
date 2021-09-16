@@ -19,10 +19,10 @@ EXTERNAL SOURCES:
     :path: "../flutter_module/.ios/Flutter/FlutterPluginRegistrant"
 
 SPEC CHECKSUMS:
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  flutter_module: 37f078337caf8acad3074374a49bf81442fd3e07
-  FlutterPluginRegistrant: d59dd07dd90e9c6430996073575a5bd1ea19677e
+  Flutter: bdfa2e8fe0e2880a2c6a58a0b1a8675c262a07af
+  flutter_module: d1e1ff44505640bd9aa37f23f63380c646272be4
+  FlutterPluginRegistrant: 2afd5ea46d3a949472c9b7da6462d8fbf7d8b16e
 
-PODFILE CHECKSUM: 3a0b2ec70bbe189e948e953c759f49e2ae8fbd35
+PODFILE CHECKSUM: 9c64b70fbfa852b490e3f22c3d9b9f54d43c4b6e
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.10.0
